@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Project",
-    "slug": "Project",
+    "slug": "project",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -29,6 +29,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "88c8e991-ad41-4dc1-a4c7-8c3cb19fec62"
+      }
+    },
+    "owner": "symoh22"
   }
 }
